@@ -1,0 +1,81 @@
+/*HEADER*/
+
+header h1 {
+	color: #26355A;
+}
+
+header nav ul li {
+	display: inline-block;
+	padding: 0 5%;
+
+}
+
+/*SECTION*/
+
+.ballet-shoes {
+	background-image: url("../img/shoes_1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+/*
+	padding: 50px 100px;
+*/
+}
+.ballet-shoes h3{
+ 	color:#192951;
+ 	margin-top: 5%;             
+}
+/*
+.nombre{
+	width: 180px;
+	height: 50px;
+}
+input{
+	margin: 5px;
+}
+input.submit
+{
+		width: auto;
+		background-position: 4px -91px;
+		background-color: #08121E;
+		color: #FFFFFF;
+		cursor: pointer;
+		height: 50px;
+	width: 532px;
+}
+
+input.user{
+ background-position: 4px 4px;
+
+	background: url("../img/user82.png") no-repeat scroll 0 0 transparent;
+		border: 1px solid #BFBFBF;
+		color: #BFBFBF;
+		padding: 5px 5px 5px 25px;
+		width: 500px; 
+}
+
+input.email{ background-position: 4px 4px;
+background: url("../img/message106.png") no-repeat scroll 0 0 transparent;
+		border: 1px solid #BFBFBF;
+		color: #BFBFBF;
+		padding: 5px 5px 5px 25px;
+		width: 500px; 
+		 }
+input.mensaje{ background-position: 4px 4px;
+background: url("../img/draw39.png") no-repeat scroll 0 0 transparent;
+		border: 1px solid #BFBFBF;
+		color: #BFBFBF;
+		padding: 5px 5px 5px 25px;
+		width: 500px; 
+		height: 100px;
+		 }
+*/
+
+/*FOOTER*/
+
+footer {
+	background-color: #192951;
+	color: #ffffff;
+	padding: 3% 0 2% 2%;
+}
